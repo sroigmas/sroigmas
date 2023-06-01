@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-salvadorroig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salvadorroig/)](https://www.linkedin.com/in/salvadorroig/)
 [![Gmail Badge](https://img.shields.io/badge/-salroima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salroima@gmail.com)](mailto:salroima@gmail.com)
 
-- 🌱 I’m currently learning **Observability, Cloud (AWS)...**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Java, Spring Boot, Kafka, Docker, Kubernetes and so on.**
 
